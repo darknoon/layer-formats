@@ -1,0 +1,565 @@
+{
+  "type": "@webflow/XscpData",
+  "payload": {
+    "nodes": [
+      {
+        "_id": "f9242aae-894c-0451-0b56-262e74cd80ec",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["68a2b859-1198-3441-a917-2c3b96beb6ee"],
+        "children": [
+          "a9d49a8d-7e7a-f2f5-9f22-2329aac797c6",
+          "556d9a46-a1f3-fab8-950d-fd6571815299",
+          "39f3c883-5961-101b-036e-f89e432a4733",
+          "eb7e3f86-ed1b-72e1-1324-b0ddf2b6a8aa"
+        ],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "a9d49a8d-7e7a-f2f5-9f22-2329aac797c6",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["90a281aa-9824-fbc6-ac50-4408622dcc11"],
+        "children": [
+          "dad489b0-2486-23e8-ede8-52b71bb82f9a",
+          "746006c8-adc7-8ba8-71e1-6a281bdaeda7"
+        ],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "dad489b0-2486-23e8-ede8-52b71bb82f9a",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["d53a63e0-0a2e-d29a-608c-bc42bf3980d3"],
+        "children": [],
+        "data": {
+          "tag": "div",
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "746006c8-adc7-8ba8-71e1-6a281bdaeda7",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["7ef13191-860a-ec7a-c463-14193c80e3e7"],
+        "children": [],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "556d9a46-a1f3-fab8-950d-fd6571815299",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["d5aa5b98-1269-b5e1-842b-fde91ce306eb"],
+        "children": [
+          "c4d36ae5-1d74-8330-35e2-b228065ee5c1",
+          "d22921a0-77f7-b464-d16f-913f4cce93f3"
+        ],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "c4d36ae5-1d74-8330-35e2-b228065ee5c1",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["7138db0c-ccf2-6ca5-f07d-d3dd56876d52"],
+        "children": [],
+        "data": {
+          "tag": "div",
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "d22921a0-77f7-b464-d16f-913f4cce93f3",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["bbee5266-023f-3f7d-5777-06f16c1f8d56"],
+        "children": [
+          "6a65aa44-6861-3a5c-cfb0-7acce70e86d1",
+          "5444bff3-2efc-b3bd-521f-f024b768c9cf",
+          "20d2cc46-4b8b-198d-59d1-9d821db2725a"
+        ],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "6a65aa44-6861-3a5c-cfb0-7acce70e86d1",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["b0e5bea1-2985-2298-3245-be2de3570640"],
+        "children": [],
+        "data": {
+          "tag": "div",
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "5444bff3-2efc-b3bd-521f-f024b768c9cf",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["15dfff74-4618-0ed9-ea33-2adfbec05e4b"],
+        "children": [],
+        "data": {
+          "tag": "div",
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "20d2cc46-4b8b-198d-59d1-9d821db2725a",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["3e39f536-feb3-2325-582c-84857268e8c1"],
+        "children": [],
+        "data": {
+          "tag": "div",
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "39f3c883-5961-101b-036e-f89e432a4733",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["d5aa5b98-1269-b5e1-842b-fde91ce306eb"],
+        "children": [
+          "39f3c883-5961-101b-036e-f89e432a4734",
+          "39f3c883-5961-101b-036e-f89e432a4735"
+        ],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "39f3c883-5961-101b-036e-f89e432a4734",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["7138db0c-ccf2-6ca5-f07d-d3dd56876d52"],
+        "children": [],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "39f3c883-5961-101b-036e-f89e432a4735",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["bbee5266-023f-3f7d-5777-06f16c1f8d56"],
+        "children": [
+          "39f3c883-5961-101b-036e-f89e432a4736",
+          "39f3c883-5961-101b-036e-f89e432a4737",
+          "39f3c883-5961-101b-036e-f89e432a4738"
+        ],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "39f3c883-5961-101b-036e-f89e432a4736",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["b0e5bea1-2985-2298-3245-be2de3570640"],
+        "children": [],
+        "data": {
+          "tag": "div",
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "39f3c883-5961-101b-036e-f89e432a4737",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["15dfff74-4618-0ed9-ea33-2adfbec05e4b"],
+        "children": [],
+        "data": {
+          "tag": "div",
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "39f3c883-5961-101b-036e-f89e432a4738",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["3e39f536-feb3-2325-582c-84857268e8c1"],
+        "children": [],
+        "data": {
+          "tag": "div",
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "eb7e3f86-ed1b-72e1-1324-b0ddf2b6a8aa",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["7227a519-faae-a56a-62ce-cdd18e998c6a"],
+        "children": [
+          "0d8e2147-d632-58d2-1428-0469664fbdbd",
+          "f4e93b2e-8772-9a55-b572-ba1d8bde4bbf"
+        ],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "0d8e2147-d632-58d2-1428-0469664fbdbd",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["0076c756-02fb-ac8d-a719-4363769a7294"],
+        "children": [],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "f4e93b2e-8772-9a55-b572-ba1d8bde4bbf",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["dbde519f-6f45-9399-31ff-a56b86cd52ad"],
+        "children": [
+          "51e97fda-9a7a-a54a-027e-4ef76003aba1",
+          "09433d3d-938c-5e06-362c-cd3f37bd739b"
+        ],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "51e97fda-9a7a-a54a-027e-4ef76003aba1",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["18784e93-73b4-118f-1fac-60a4960f0f52"],
+        "children": [],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "09433d3d-938c-5e06-362c-cd3f37bd739b",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["18784e93-73b4-118f-1fac-60a4960f0f52"],
+        "children": [],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      }
+    ],
+    "styles": [
+      {
+        "_id": "90a281aa-9824-fbc6-ac50-4408622dcc11",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-flex",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; margin-bottom: 24px; justify-content: space-between; align-items: center;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "7ef13191-860a-ec7a-c463-14193c80e3e7",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-profile",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 28px; height: 28px; margin-right: 20px; border-top-left-radius: 100%; border-top-right-radius: 100%; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; background-color: #29292b; perspective-origin: 0% 0%; transform-origin: 0% 0%;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "7227a519-faae-a56a-62ce-cdd18e998c6a",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-container-2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; margin-top: 24px; flex-direction: column;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "0076c756-02fb-ac8d-a719-4363769a7294",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-subhead",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 60px; height: 18px; margin-bottom: 16px; border-top-left-radius: 6px; border-top-right-radius: 6px; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; background-color: #29292b; perspective-origin: 0% 0%; transform-origin: 0% 0%;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "b0e5bea1-2985-2298-3245-be2de3570640",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-title",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 88px; height: 18px; margin-bottom: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #505051; border-right-style: solid; border-right-width: 1px; border-right-color: #505051; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #505051; border-left-style: solid; border-left-width: 1px; border-left-color: #505051; border-top-left-radius: 6px; border-top-right-radius: 6px; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; background-color: #29292b; perspective-origin: 0% 0%; transform-origin: 0% 0%;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "3e39f536-feb3-2325-582c-84857268e8c1",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-description-2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 48px; height: 6px; margin-bottom: 6px; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; background-color: #29292b; perspective-origin: 0% 0%; transform-origin: 0% 0%;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "7138db0c-ccf2-6ca5-f07d-d3dd56876d52",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-block",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 72px; height: 72px; border-top-style: solid; border-top-width: 1px; border-top-color: #505051; border-right-style: solid; border-right-width: 1px; border-right-color: #505051; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #505051; border-left-style: solid; border-left-width: 1px; border-left-color: #505051; border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; background-color: #29292b; perspective-origin: 0% 0%; transform-origin: 0% 0%;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "15dfff74-4618-0ed9-ea33-2adfbec05e4b",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-description-1",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 64px; height: 6px; margin-bottom: 6px; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; background-color: #29292b; perspective-origin: 0% 0%; transform-origin: 0% 0%;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "d53a63e0-0a2e-d29a-608c-bc42bf3980d3",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-header",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 104px; height: 18px; border-top-left-radius: 6px; border-top-right-radius: 6px; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; background-color: #29292b; perspective-origin: 0% 0%; transform-origin: 0% 0%;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "dbde519f-6f45-9399-31ff-a56b86cd52ad",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-off-screen-container",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; width: 288px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "d5aa5b98-1269-b5e1-842b-fde91ce306eb",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-container-1",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; margin-bottom: 20px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "68a2b859-1198-3441-a917-2c3b96beb6ee",
+        "fake": false,
+        "type": "class",
+        "name": "figma-design",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: relative; top: 48px; z-index: 12; display: block; overflow: hidden; width: 240px; height: 512px; padding-top: 20px; padding-bottom: 20px; padding-left: 20px; border-top-style: solid; border-top-width: 1px; border-top-color: #4f4f50; border-right-style: solid; border-right-width: 1px; border-right-color: #4f4f50; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #4f4f50; border-left-style: solid; border-left-width: 1px; border-left-color: #4f4f50; border-top-left-radius: 16px; border-top-right-radius: 16px; border-bottom-left-radius: 16px; border-bottom-right-radius: 16px; background-image: linear-gradient(135deg, #1e1e1f, #1e1e20); box-shadow: 0 22px 40px -10px hsla(0, 0.00%, 0.00%, 0.25); perspective-origin: 0% 0%; transform-origin: 0% 0%;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "bbee5266-023f-3f7d-5777-06f16c1f8d56",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-flex-1",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; margin-left: 22px; flex-direction: column; justify-content: center;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      },
+      {
+        "_id": "18784e93-73b4-118f-1fac-60a4960f0f52",
+        "fake": false,
+        "type": "class",
+        "name": "lofi-block-lg",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 120px; height: 120px; margin-right: 16px; border-top-style: solid; border-top-width: 1px; border-top-color: #505051; border-right-style: solid; border-right-width: 1px; border-right-color: #505051; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #505051; border-left-style: solid; border-left-width: 1px; border-left-color: #505051; border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; background-color: #29292b; perspective-origin: 0% 0%; transform-origin: 0% 0%;",
+        "variants": {},
+        "children": [],
+        "createdBy": "58cee682df096f5938172d6c",
+        "selector": null
+      }
+    ],
+    "assets": [],
+    "ix1": [],
+    "ix2": { "interactions": [], "events": [], "actionLists": [] }
+  },
+  "meta": {
+    "unlinkedSymbolCount": 0,
+    "droppedLinks": 0,
+    "dynBindRemovedCount": 0,
+    "dynListBindRemovedCount": 0,
+    "paginationRemovedCount": 0
+  }
+}

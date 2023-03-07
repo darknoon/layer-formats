@@ -1,0 +1,814 @@
+[
+  {
+    "id": 6187404,
+    "site_id": 1931533,
+    "active_page_history_id": 6895878,
+    "snapshot_uuid": "4c44a7e7-328c-472b-abf8-e8437c52e290",
+    "description": null,
+    "title": "Home",
+    "slug": "home",
+    "path": "/",
+    "type": "Grid",
+    "is_homepage": false,
+    "is_hidden": false,
+    "sort_order": 0,
+    "content": {
+      "type": "grid",
+      "blocks": [
+        {
+          "id": "769724b7-5751-43c5-a3dd-8a3cfc22ce4e",
+          "size": {
+            "width": 4,
+            "height": 1
+          },
+          "type": "text",
+          "zIndex": 4,
+          "padding": {
+            "top": 8,
+            "left": 8,
+            "right": 8,
+            "bottom": 8
+          },
+          "maskStyle": "none",
+          "customData": {
+            "utf": {
+              "type": "paragraph",
+              "style": {
+                "font": "IndieFlower",
+                "weight": "regular",
+                "italics": false,
+                "font_size": 21.02803738317757,
+                "foreground_color": {
+                  "red": 0,
+                  "blue": 0,
+                  "alpha": 1,
+                  "green": 0
+                }
+              },
+              "content": {
+                "type": "text",
+                "value": "Universe"
+              }
+            },
+            "fill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 0,
+                "green": 0
+              }
+            },
+            "text": "Universe",
+            "textColor": {
+              "red": 0,
+              "blue": 0,
+              "alpha": 1,
+              "green": 0
+            },
+            "textAttributes": [
+              {
+                "range": {
+                  "length": 8,
+                  "location": 0
+                },
+                "attributes": {
+                  "font": {
+                    "size": 21.02803738317757,
+                    "fontname": "IndieFlower",
+                    "familyname": "Indie Flower"
+                  },
+                  "paragraphStyle": {
+                    "alignment": "center",
+                    "lineSpacing": 0,
+                    "lineBreakMode": "byWordWrapping",
+                    "lineHeightMultiple": 0
+                  },
+                  "foregroundColor": {
+                    "red": 0,
+                    "blue": 0,
+                    "alpha": 1,
+                    "green": 0
+                  }
+                }
+              }
+            ],
+            "textAlignmentType": "MiddleCenter",
+            "haveSetCustomTintColor": false
+          },
+          "gestureType": "tap",
+          "scriptActionType": "nothing"
+        },
+        {
+          "id": "9a6aa7b8-f101-43ac-a886-23f0d8d9bfbe",
+          "size": {
+            "width": 4,
+            "height": 5
+          },
+          "type": "image",
+          "maskStyle": "none",
+          "customData": {
+            "imageUUID": "e634c6d0-cd7f-44a2-bec8-a1e74cf12da5",
+            "contentMode": "aspectFill",
+            "selectedFilterName": "none"
+          },
+          "gestureType": "tap",
+          "scriptActionType": "nothing"
+        },
+        {
+          "id": "74b5ec4c-7a76-4b14-920b-416ff00b4082",
+          "size": {
+            "width": 4,
+            "height": 1
+          },
+          "type": "text",
+          "zIndex": 3,
+          "padding": {
+            "top": 8,
+            "left": 8,
+            "right": 8,
+            "bottom": 8
+          },
+          "maskStyle": "none",
+          "customData": {
+            "utf": {
+              "type": "paragraph",
+              "style": {
+                "font": "HelveticaNeueLTStd-Roman",
+                "weight": "regular",
+                "italics": false,
+                "font_size": 15.771028037383179,
+                "foreground_color": {
+                  "red": 0,
+                  "blue": 0,
+                  "alpha": 1,
+                  "green": 0
+                }
+              },
+              "content": {
+                "type": "text",
+                "value": "siteid-1931533.univer.se"
+              }
+            },
+            "fill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 0,
+                "green": 0
+              }
+            },
+            "text": "siteid-1931533.univer.se",
+            "textColor": {
+              "red": 0,
+              "blue": 0,
+              "alpha": 1,
+              "green": 0
+            },
+            "textAttributes": [
+              {
+                "range": {
+                  "length": 24,
+                  "location": 0
+                },
+                "attributes": {
+                  "font": {
+                    "size": 15.771028037383179,
+                    "fontname": "HelveticaNeueLTStd-Roman",
+                    "familyname": "Helvetica Neue LT Std"
+                  },
+                  "paragraphStyle": {
+                    "alignment": "center",
+                    "lineSpacing": 0,
+                    "lineBreakMode": "byWordWrapping",
+                    "lineHeightMultiple": 0
+                  },
+                  "foregroundColor": {
+                    "red": 0,
+                    "blue": 0,
+                    "alpha": 1,
+                    "green": 0
+                  }
+                }
+              }
+            ],
+            "textAlignmentType": "MiddleCenter",
+            "haveSetCustomTintColor": false
+          },
+          "gestureType": "tap",
+          "scriptActionType": "nothing"
+        },
+        {
+          "id": "a20d5422-d0b0-4d8b-898c-e298ef92ff76",
+          "size": {
+            "width": 4,
+            "height": 1
+          },
+          "type": "button",
+          "zIndex": 1,
+          "padding": {
+            "top": 21,
+            "left": 121,
+            "right": 121,
+            "bottom": 21
+          },
+          "maskStyle": "none",
+          "customData": {
+            "fill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 0,
+                "green": 0
+              }
+            },
+            "text": "Edit this site",
+            "animations": [
+              {
+                "type": "scale",
+                "options": "shrink"
+              },
+              {
+                "type": "color",
+                "options": {
+                  "color": {
+                    "red": 0,
+                    "blue": 0,
+                    "alpha": 0.1,
+                    "green": 0
+                  }
+                }
+              }
+            ],
+            "buttonFill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 1,
+                "green": 0
+              }
+            },
+            "buttonSize": "fitToText",
+            "buttonShape": {
+              "type": "roundedRect",
+              "options": {
+                "topLeft": {
+                  "unit": "percentage",
+                  "value": 0.5
+                },
+                "topRight": {
+                  "unit": "percentage",
+                  "value": 0.5
+                },
+                "bottomLeft": {
+                  "unit": "percentage",
+                  "value": 0.5
+                },
+                "bottomRight": {
+                  "unit": "percentage",
+                  "value": 0.5
+                }
+              }
+            },
+            "buttonBorder": {
+              "fill": {
+                "type": "solidColor",
+                "color": {
+                  "red": 0,
+                  "blue": 0,
+                  "alpha": 1,
+                  "green": 0
+                }
+              },
+              "width": 3,
+              "isHidden": true
+            },
+            "textAttributes": [
+              {
+                "range": {
+                  "length": 14,
+                  "location": 0
+                },
+                "attributes": {
+                  "font": {
+                    "size": 12.266355140186915,
+                    "fontname": "Poppins-Bold",
+                    "familyname": "Poppins"
+                  },
+                  "paragraphStyle": {
+                    "alignment": "center",
+                    "lineSpacing": 0,
+                    "lineBreakMode": "byTruncatingTail",
+                    "lineHeightMultiple": 0
+                  },
+                  "foregroundColor": {
+                    "red": 1,
+                    "blue": 1,
+                    "alpha": 1,
+                    "green": 1
+                  }
+                }
+              }
+            ]
+          },
+          "destination": "https://app.onuniverse.com/sites/1931533/pages/6187404/editor",
+          "gestureType": "tap",
+          "scriptActionType": "web"
+        },
+        {
+          "id": "08f4a581-e8ea-4d0a-804d-054bb6f7c725",
+          "size": {
+            "width": 4,
+            "height": 1
+          },
+          "type": "text",
+          "zIndex": 2,
+          "padding": {
+            "top": 8,
+            "left": 8,
+            "right": 8,
+            "bottom": 8
+          },
+          "maskStyle": "none",
+          "customData": {
+            "utf": {
+              "type": "paragraph",
+              "style": {
+                "font": "HelveticaNeueLTStd-Roman",
+                "weight": "regular",
+                "italics": false,
+                "font_size": 15.771028037383179,
+                "underline": "single",
+                "foreground_color": {
+                  "red": 0,
+                  "blue": 0,
+                  "alpha": 1,
+                  "green": 0
+                }
+              },
+              "content": {
+                "type": "text",
+                "value": "Contact Universe Support"
+              }
+            },
+            "fill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 0,
+                "green": 0
+              }
+            },
+            "text": "Contact Universe Support",
+            "textColor": {
+              "red": 0,
+              "blue": 0,
+              "alpha": 1,
+              "green": 0
+            },
+            "textAttributes": [
+              {
+                "range": {
+                  "length": 24,
+                  "location": 0
+                },
+                "attributes": {
+                  "font": {
+                    "size": 15.771028037383179,
+                    "fontname": "HelveticaNeueLTStd-Roman",
+                    "familyname": "Helvetica Neue LT Std"
+                  },
+                  "paragraphStyle": {
+                    "alignment": "center",
+                    "lineSpacing": 0,
+                    "lineBreakMode": "byWordWrapping",
+                    "lineHeightMultiple": 0
+                  },
+                  "underlineStyle": 1,
+                  "foregroundColor": {
+                    "red": 0,
+                    "blue": 0,
+                    "alpha": 1,
+                    "green": 0
+                  }
+                }
+              }
+            ],
+            "textAlignmentType": "TopCenter",
+            "haveSetCustomTintColor": false
+          },
+          "destination": "https://help.onuniverse.com",
+          "gestureType": "tap",
+          "scriptActionType": "web"
+        }
+      ],
+      "verseID": "8e776eb8-68a8-4e61-93ec-be37e0d4d074",
+      "version": 9,
+      "archetype": "Unknown",
+      "createdAt": "2023-02-27T18:25:40.296Z",
+      "gridWidth": 4,
+      "subdomain": null,
+      "updatedAt": "2023-02-27T18:25:40.296Z",
+      "gridHeight": 8,
+      "faviconType": "universelogo",
+      "snapshotUUID": "4c44a7e7-328c-472b-abf8-e8437c52e290",
+      "blockPositions": [
+        {
+          "769724b7-5751-43c5-a3dd-8a3cfc22ce4e": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "9a6aa7b8-f101-43ac-a886-23f0d8d9bfbe": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        {
+          "74b5ec4c-7a76-4b14-920b-416ff00b4082": {
+            "x": 0,
+            "y": 3
+          }
+        },
+        {
+          "a20d5422-d0b0-4d8b-898c-e298ef92ff76": {
+            "x": 0,
+            "y": 6
+          }
+        },
+        {
+          "08f4a581-e8ea-4d0a-804d-054bb6f7c725": {
+            "x": 0,
+            "y": 7
+          }
+        }
+      ],
+      "backgroundBlock": {
+        "id": "0da15096-cc42-4b34-8725-3d4eff8998b7",
+        "size": {
+          "width": 3,
+          "height": 5
+        },
+        "type": "background",
+        "maskStyle": "none",
+        "customData": {
+          "fill": {
+            "type": "solidColor",
+            "color": {
+              "red": 1,
+              "blue": 1,
+              "alpha": 1,
+              "green": 1
+            }
+          },
+          "selectedFilterName": "none",
+          "backgroundMediaDescription": "color"
+        },
+        "gestureType": "tap",
+        "scriptActionType": "nothing"
+      },
+      "siteId": 1931533
+    },
+    "parent_id": 6187403,
+    "theme_id": null,
+    "theme": null,
+    "version": "0693906",
+    "created_at": "2023-02-27T18:25:40.296Z",
+    "modified_at": "2023-02-27T18:25:40.308Z",
+    "first_published_at": "2023-02-27T18:25:40.296Z",
+    "children_count": 0,
+    "thumbnails": {
+      "fullsize": "https://onuniverse-assets.imgix.net/4c44a7e7-328c-472b-abf8-e8437c52e290.jpg?changeid=0693906",
+      "small": "https://onuniverse-assets.imgix.net/4c44a7e7-328c-472b-abf8-e8437c52e290.jpg?w=128&dpr=2&changeid=0693906",
+      "large": "https://onuniverse-assets.imgix.net/4c44a7e7-328c-472b-abf8-e8437c52e290.jpg?w=512&dpr=2&changeid=0693906"
+    }
+  },
+  {
+    "id": 6187403,
+    "site_id": 1931533,
+    "active_page_history_id": null,
+    "description": null,
+    "title": "Home",
+    "slug": "home",
+    "path": "/",
+    "type": "Group",
+    "is_homepage": true,
+    "is_hidden": false,
+    "sort_order": 0,
+    "content": {
+      "type": "timeline",
+      "display_as": "Timeline"
+    },
+    "parent_id": 6187402,
+    "theme_id": null,
+    "theme": null,
+    "version": null,
+    "created_at": "2023-02-27T18:25:40.288Z",
+    "modified_at": "2023-02-27T18:25:40.289Z",
+    "first_published_at": "2023-02-27T18:25:40.288Z",
+    "children_count": 1,
+    "thumbnails": {
+      "fullsize": "https://onuniverse-assets.imgix.net/4c44a7e7-328c-472b-abf8-e8437c52e290.jpg?changeid=0693906",
+      "small": "https://onuniverse-assets.imgix.net/4c44a7e7-328c-472b-abf8-e8437c52e290.jpg?w=128&dpr=2&changeid=0693906",
+      "large": "https://onuniverse-assets.imgix.net/4c44a7e7-328c-472b-abf8-e8437c52e290.jpg?w=512&dpr=2&changeid=0693906"
+    }
+  },
+  {
+    "id": 6187402,
+    "site_id": 1931533,
+    "active_page_history_id": null,
+    "description": null,
+    "title": null,
+    "slug": null,
+    "path": "/",
+    "type": "Root",
+    "is_homepage": false,
+    "is_hidden": false,
+    "sort_order": 0,
+    "content": {
+      "type": "menu",
+      "display_as": "HamburgerMenu"
+    },
+    "parent_id": null,
+    "theme_id": "1",
+    "theme": {
+      "id": "1",
+      "name": "UNIVERSAL",
+      "description": "This is the default theme on Universe that features a white background and black text. A simple and elegant way to style your site.",
+      "created_at": "2021-07-06T15:39:31.680Z",
+      "modified_at": "2023-02-09T21:13:40.784Z",
+      "attributes": {
+        "map": {
+          "primary": {
+            "mapType": "yellow",
+            "maskStyle": "none"
+          }
+        },
+        "text": {
+          "caption": {
+            "fill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 0,
+                "green": 0
+              }
+            },
+            "font": "HelveticaNeueLTStd-Roman",
+            "fontSize": 16,
+            "maskStyle": "none",
+            "textColor": {
+              "red": 0.5098039215686274,
+              "blue": 0.5098039215686274,
+              "alpha": 1,
+              "green": 0.5098039215686274
+            },
+            "textAlignmentVertical": "bottom",
+            "textAlignmentHorizontal": "left"
+          },
+          "subtitle": {
+            "fill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 0,
+                "green": 0
+              }
+            },
+            "font": "HelveticaNeueLTStd-Roman",
+            "fontSize": 24,
+            "maskStyle": "none",
+            "textColor": {
+              "red": 0,
+              "blue": 0,
+              "alpha": 1,
+              "green": 0
+            },
+            "textAlignmentVertical": "middle",
+            "textAlignmentHorizontal": "center"
+          },
+          "paragraph": {
+            "fill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 0,
+                "green": 0
+              }
+            },
+            "font": "HelveticaNeueLTStd-Roman",
+            "fontSize": 16,
+            "maskStyle": "none",
+            "textColor": {
+              "red": 0,
+              "blue": 0,
+              "alpha": 1,
+              "green": 0
+            },
+            "textAlignmentVertical": "top",
+            "textAlignmentHorizontal": "left"
+          },
+          "primaryTitle": {
+            "fill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 0,
+                "green": 0
+              }
+            },
+            "font": "HelveticaNeueLTStd-Roman",
+            "fontSize": 57.89687728881836,
+            "maskStyle": "none",
+            "textColor": {
+              "red": 0,
+              "blue": 0,
+              "alpha": 1,
+              "green": 0
+            },
+            "textAlignmentVertical": "bottom",
+            "textAlignmentHorizontal": "center"
+          },
+          "secondaryTitle": {
+            "fill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 0,
+                "green": 0
+              }
+            },
+            "font": "HelveticaNeueLTStd-Roman",
+            "fontSize": 32.95595932006836,
+            "maskStyle": "none",
+            "textColor": {
+              "red": 0,
+              "blue": 0,
+              "alpha": 1,
+              "green": 0
+            },
+            "textAlignmentVertical": "middle",
+            "textAlignmentHorizontal": "center"
+          }
+        },
+        "image": {
+          "primary": {}
+        },
+        "button": {
+          "primary": {
+            "font": "HelveticaNeueLTStd-Roman",
+            "fontSize": 24,
+            "textColor": {
+              "red": 1,
+              "blue": 1,
+              "alpha": 1,
+              "green": 1
+            },
+            "animations": [],
+            "buttonFill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 1,
+                "green": 0
+              }
+            },
+            "buttonShape": {
+              "type": "none"
+            },
+            "buttonBorder": {
+              "fill": {
+                "type": "solidColor",
+                "color": {
+                  "red": 0,
+                  "blue": 0,
+                  "alpha": 0,
+                  "green": 0
+                }
+              },
+              "width": 0,
+              "isHidden": true
+            }
+          },
+          "secondary": {
+            "font": "HelveticaNeueLTStd-Roman",
+            "fontSize": 16,
+            "textColor": {
+              "red": 0,
+              "blue": 0,
+              "alpha": 1,
+              "green": 0
+            },
+            "animations": [],
+            "buttonFill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 0,
+                "green": 0
+              }
+            },
+            "buttonShape": {
+              "type": "none"
+            },
+            "buttonBorder": {
+              "fill": {
+                "type": "solidColor",
+                "color": {
+                  "red": 0,
+                  "blue": 0,
+                  "alpha": 1,
+                  "green": 0
+                }
+              },
+              "width": 2,
+              "isHidden": false
+            }
+          }
+        },
+        "version": 0,
+        "background": {
+          "primary": {
+            "fill": {
+              "type": "solidColor",
+              "color": {
+                "red": 1,
+                "blue": 1,
+                "alpha": 1,
+                "green": 1
+              }
+            },
+            "backgroundMediaDescription": "color"
+          }
+        },
+        "iconButton": {
+          "primary": {
+            "fill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 0,
+                "green": 0
+              }
+            },
+            "maskStyle": "none",
+            "tintColor": {
+              "red": 0,
+              "blue": 0,
+              "alpha": 1,
+              "green": 0
+            }
+          },
+          "secondary": {
+            "fill": {
+              "type": "solidColor",
+              "color": {
+                "red": 0,
+                "blue": 0,
+                "alpha": 1,
+                "green": 0
+              }
+            },
+            "maskStyle": "none",
+            "tintColor": {
+              "red": 1,
+              "blue": 1,
+              "alpha": 1,
+              "green": 1
+            }
+          }
+        }
+      },
+      "is_universe": true,
+      "is_public": false,
+      "icon_url": "https://assets.onuniverse.com/b34dba2e-d883-4fc1-934f-2236aa222b7b",
+      "symbol_name": null,
+      "user_id": 1452850,
+      "badge": null,
+      "required_entitlement": null
+    },
+    "version": null,
+    "created_at": "2023-02-27T18:25:40.282Z",
+    "modified_at": "2023-02-27T18:25:40.282Z",
+    "first_published_at": "2023-02-27T18:25:40.282Z",
+    "children_count": 1,
+    "thumbnails": {
+      "fullsize": "https://onuniverse-assets.imgix.net/4c44a7e7-328c-472b-abf8-e8437c52e290.jpg?changeid=0693906",
+      "small": "https://onuniverse-assets.imgix.net/4c44a7e7-328c-472b-abf8-e8437c52e290.jpg?w=128&dpr=2&changeid=0693906",
+      "large": "https://onuniverse-assets.imgix.net/4c44a7e7-328c-472b-abf8-e8437c52e290.jpg?w=512&dpr=2&changeid=0693906"
+    }
+  }
+]
