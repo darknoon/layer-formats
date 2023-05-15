@@ -4,6 +4,8 @@ A study of various design tools and their layer formats
 
 ## Table of Contents
 
+### Tools
+
 - [x] [Framer](#framer)
 - [x] [Universe](#universe)
 - [x] [Webflow](#webflow)
@@ -17,4 +19,9 @@ A study of various design tools and their layer formats
 - [ ] [Principle](#principle)
 - [ ] [Adobe XD](#adobe-xd)
 
+### Interchange Formats
 
+- [ ] SVG
+- [ ] PDF
+- [ ] Lottie (JSON)
+- [ ] Semaphore (used by Sketch or Figma Origami Studio plugin)
