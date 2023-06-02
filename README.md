@@ -1,6 +1,8 @@
 # Layer Formats
 
-A study of various design tools and their layer formats
+A study of various design tools and their layer formats.
+
+Data is captured from the pasteboard when copy-pasting layers within a tool.
 
 ## Introduction
 
@@ -22,14 +24,12 @@ If you would like to contribute, please follow these steps:
 3. Make your changes and commit them to your branch
 4. Submit a pull request with a detailed description of your changes
 
+## Native Formats
 
-## Table of Contents
-
-### Tools' Native Formats
-
-- [x] [Framer](#framer)
-- [x] [Universe](#universe)
+- [x] [Framer](framer/example.json)
+- [x] [Universe](universe/lineage.json)
 - [x] [Webflow](#webflow)
+- [x] [Microsoft Designer](designer/pasteboard-inside.json)
 - [ ] [Figma](#figma)
 - [ ] [Sketch](#sketch)
 - [ ] [Origami](#origami)
@@ -40,7 +40,8 @@ If you would like to contribute, please follow these steps:
 - [ ] [Principle](#principle)
 - [ ] [Adobe XD](#adobe-xd)
 
-### Interchange Formats
+
+## Interchange Formats
 
 - [ ] SVG
 - [ ] PDF
